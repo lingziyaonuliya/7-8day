@@ -1,0 +1,12 @@
+.main{
+	display: flex;
+	justify-content: flex-start;
+}
+.left{
+	width: 300px;
+	background: #EBBAAD;
+}
+.right{
+	width: 80%;
+	background: #EDCF57;
+}

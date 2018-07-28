@@ -1,0 +1,9 @@
+.left{
+	width: 300px;
+	background: #EBBAAD;
+	float: left;
+}
+.right{
+	background: #EDCF57;
+	overflow: hidden;
+}

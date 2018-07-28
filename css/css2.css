@@ -1,0 +1,11 @@
+.left{
+	width: 30%;
+	background: #EBBAAD;
+	position: absolute;
+}
+.right{
+	width: 70%;
+	background: #EDCF57;
+	position: relative;
+	left: 30%;
+}

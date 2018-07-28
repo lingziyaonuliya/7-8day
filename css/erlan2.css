@@ -1,0 +1,11 @@
+
+.left{
+	width: 300px;
+	background: #EBBAAD;
+	position: absolute;
+}
+.right{
+	background: #EDCF57;
+	position: relative;
+	left: 300px;
+}
